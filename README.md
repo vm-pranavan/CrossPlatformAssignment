@@ -17,6 +17,11 @@ A premium, enterprise-grade Task Management application built with **Flutter** a
 | :---: | :---: |
 | ![Login](screenshots/login_screen.png) | ![Dashboard](screenshots/dashboard_screen.png) |
 
+## 🎥 Video Demo
+
+Check out the full application walkthrough on YouTube:
+[![Task Manager Demo](https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/b2aR0JLoSPo)
+
 ## 🏗️ Architecture
 
 The application follows a clean, layered architecture to ensure scalability and maintainability:
